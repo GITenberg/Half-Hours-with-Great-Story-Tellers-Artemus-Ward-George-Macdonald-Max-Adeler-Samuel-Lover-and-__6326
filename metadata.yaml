@@ -1,0 +1,27 @@
+_repo: Half-Hours-with-Great-Story-Tellers-Artemus-Ward-George-Macdonald-Max-Adeler-Samuel-Lover-and-__6326
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: Grey dolphin / R.H. Barham -- Moses, the Sassy / A. Ward -- Mr. Columbus
+  Coriander's gorilla -- The fate of young Chubb / M. Adeler -- Boots at the Holly-tree
+  Inn / Charles Dickens -- The enthusiast in anatomy / J. Oxenford -- "The light princess"
+  / G. Macdonald -- Legend of the little weaver / Samuel Lover.
+title: "Half-Hours with Great Story-Tellers\r\nArtemus Ward, George Macdonald, Max\
+  \ Adeler, Samuel Lover, and Others"
+url: http://www.gutenberg.org/ebooks/6326
